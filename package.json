@@ -1,0 +1,12 @@
+{
+  "name": "user-input-database-app",
+  "version": "1.0.0",
+  "description": "Simple app that transforms user input and stores unique entries in JSON database",
+  "main": "user-input-app.js",
+  "scripts": {
+    "start": "node user-input-app.js"
+  },
+  "keywords": ["database", "json", "input-validation"],
+  "author": "",
+  "license": "MIT"
+}
